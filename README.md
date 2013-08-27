@@ -1,0 +1,4 @@
+pokerhands
+==========
+
+KataPokerHands
